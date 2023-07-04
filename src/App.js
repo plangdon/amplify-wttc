@@ -4,14 +4,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <div style={{width:"98%"}}>
           <div style={{fontSize: 24, fontWeight: 900, marginBottom: 10}}>
             Wethersfield Teen Theater Company presents…
           </div>
          
 
           <div>
-            <img src={process.env.PUBLIC_URL + "/000432_hero.jpg"} />
+            <img src={process.env.PUBLIC_URL + "/000432_hero.jpg"} width={"80%"}/>
           </div>
 
           <div style={{fontSize: 24, fontWeight: 900, marginBottom: 10}}>
@@ -43,7 +43,7 @@ function App() {
           </div>
 
 
-        </p>
+        </div>
       </header>
     </div>
   );
