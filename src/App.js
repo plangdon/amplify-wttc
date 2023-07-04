@@ -11,7 +11,7 @@ function App() {
          
 
           <div>
-            <img src={process.env.PUBLIC_URL + "/000432_hero.jpeg"} />
+            <img src={process.env.PUBLIC_URL + "/000432_hero.jpg"} />
           </div>
 
           <div style={{fontSize: 24, fontWeight: 900, marginBottom: 10}}>
