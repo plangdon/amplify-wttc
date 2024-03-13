@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <div style={{width:"98%"}}>
           <div>
-            <img src={process.env.PUBLIC_URL + "/IMG_0546.jpg"} width={"100%"}/>
+            <img src={process.env.PUBLIC_URL + "/IMG_0546.JPG"} width={"100%"}/>
           </div>
         </div>
       </header>
