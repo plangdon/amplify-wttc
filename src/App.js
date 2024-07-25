@@ -11,7 +11,7 @@ function App() {
          
 
           <div>
-            <img src={process.env.PUBLIC_URL + "/pippin.jpg"} width={"80%"}/>
+            <img src={process.env.PUBLIC_URL + "/pippin-show.jpg"} width={"80%"}/>
           </div>
 
         </div>
