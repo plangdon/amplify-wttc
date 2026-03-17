@@ -15,7 +15,9 @@ function App() {
           </div>
 
           <div>
-       <a href={process.env.PUBLIC_URL + "/packet.pdf"}>Download Audition Packet</a>
+            <a href="/packet.pdf" target="_blank" rel="noopener noreferrer">
+              Download Audition Packet
+            </a>
           </div>
 
         </div>
