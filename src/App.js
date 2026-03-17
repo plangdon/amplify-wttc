@@ -11,11 +11,11 @@ function App() {
          
 
           <div>
-            <img src={process.env.PUBLIC_URL + "/mg.jpg"} width={"80%"}/>
+            <img src={process.env.PUBLIC_URL + "/sound.jpg"} width={"80%"}/>
           </div>
 
           <div>
-=            <a href={process.env.PUBLIC_URL + "/WTTC_Mean_Girls_Audition_Packet.pdf"}>Download Audition Packet</a>
+       <a href={process.env.PUBLIC_URL + "/packet.pdf"}>Download Audition Packet</a>
           </div>
 
         </div>
